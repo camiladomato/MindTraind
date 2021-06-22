@@ -1,4 +1,4 @@
-# MindTraind
+# TrainedMind
 
 MindTrained es una aplicacion web realizada para una escuela de instructores de varias disciplinas. Se puede acceder como administrador y como alumno. 
 
